@@ -1,4 +1,3 @@
-
 # VATEK - Thinking In React
 
 ![](https://nithuan.files.wordpress.com/2019/03/3231e-1angcizj763gjua05kajf1w.png)
@@ -15,7 +14,7 @@ Các bạn muốn có cái nhìn tổng quan hơn về các yêu cầu của m�
 
 Trong quá trình làm việc với React bạn cảm thấy bối rồi trong cách giải quết vấn đề, các lên project structure, cách chia component, cách xử lý data, cách binding data, cách sủ dụng hooks, context, libs.
 
-Khóa học này chúng ta sẽ cố gắng tổng hợp và mổ sẻ các vấn đề trên giúp các Front end dev phần nào có cái nhìn tổng quan và tự tin hơn trong cách giải quết vấn đề trong UI nói chung và react nói riêng. 
+Khóa học này chúng ta sẽ cố gắng tổng hợp và mổ sẻ các vấn đề trên giúp các Front end dev phần nào có cái nhìn tổng quan và tự tin hơn trong cách giải quết vấn đề trong UI nói chung và react nói riêng.
 
 # Bối cảnh
 
@@ -23,7 +22,7 @@ Phát triển từ một công ty outsourcig, trong quá trình làm việc chú
 
 Với FE nói riêng thì mình thấy các dev đâu đấy thiếu đi cho mình cách đánh giá một App tốt là như thé nào, và hơn nữa là cách mình chia nhỏ các vấn đề ra làm sao vừa dễ lúc code vừa dễ làm việc trong team với nhau cũng như hiệu quả trong việc nâng cấp mở rộng về sau,
 
-Hy vọng với các tips trong course này sẽ phần nào áp dụng trong công việc, code nhanh và dễ và ít bugs hơn :). 
+Hy vọng với các tips trong course này sẽ phần nào áp dụng trong công việc, code nhanh và dễ và ít bugs hơn :).
 
 # Chương trình
 
@@ -33,25 +32,25 @@ Mỗi session là độc lập, nên bạn hoàn toàn có thể chọn session 
 
 Ngoài các session chính mình sẽ có một số topic nâng cao hơn cho các bạn hứng thú cũng như phù hợ với vấn đề bạn đang quan tâm.
 
-Các session cùng chung topic sẽ được đánh dấu *
+Các session cùng chung topic sẽ được đánh dấu \*
 
 - [Thế nào là một UI tốt?](./src/stories/topics/good-ui/README.md)
 - [React giải quết vấn đề như thế nào?](./src/stories/topics/react-thinking/README.md)
-- [Cấu trúc module thế nào thì ok? (*)](./src/stories/topics/module-structure/README.md)
-- [Cấu trúc Component thế nào thì ok (*)](./src/stories/topics/components-structure/README.md)
-- [Quản lý Global State thế nào? (**)](./src/stories/topics/global-state-management/README.md)
-- [Quản lý local state thế nào? (**)](./src/stories/topics/local-state-management/README.md)
+- [Cấu trúc module thế nào thì ok? (\*)](./src/stories/topics/module-structure/README.md)
+- [Cấu trúc Component thế nào thì ok (\*)](./src/stories/topics/components-structure/README.md)
+- [Quản lý Global State thế nào? (\*\*)](./src/stories/topics/global-state-management/README.md)
+- [Quản lý local state thế nào? (\*\*)](./src/stories/topics/local-state-management/README.md)
 - [Các bước dev 1 module?](./src/stories/topics/module-development/README.md)
 
 Bonus:
-- [Redux có cần thiết không, tại sao và như thế nào?]()
-- [Context và redux hỗ trợ hay thay thế nhau?]()
-- [Context giải quết vấn đề gì?]()
-- [Hooks giải quết vấn đề gì?]()
-- [Libs giải quết vấn đề gì?]()
-- [Mock data như thế nào?]()
-- [Có tools, tips tricks gì để code pro hơn không?]()
-- [Call api và lưu data thế nào?]()
-- [Testing thế nào cho có giá trị?]()
-- [Giải quết vấn đề perfoamce thế nào?]()
-- [Next và serer side rendering cần lưu ý gì?]()
+
+- [Redux có cần thiết không, tại sao và như thế nào?](./src/stories/bonus/redux/README.md)
+- [Context và redux hỗ trợ hay thay thế nhau?](./src/stories/bonus/context-reduce/README.md)
+- [Context giải quết vấn đề gì?](./src/stories/bonus/context-helper/README.md)
+- [Hooks giải quết vấn đề gì?](./src/stories/bonus/hook-helper/README.md)
+- [Libs giải quết vấn đề gì?](./src/stories/bonus/libs-in-react/README.md)
+- [Có tools, tips tricks gì để code pro hơn không?](./src/stories/bonus/tool-tip/README.md)
+- [Call api và lưu data thế nào?](./src/stories/bonus/call-api-store/README.md)
+- [Testing thế nào cho có giá trị?](./src/stories/bonus/testing/README.md)
+- [Giải quết vấn đề perfoamce thế nào?](./src/stories/bonus/performance-problem/README.md)
+- [Next và serer side rendering cần lưu ý gì?](./src/stories/bonus/next-server-side-render/README.md)
